@@ -1,7 +1,17 @@
-<h1>설문조사</h1>
-<a link="https://naver.me/GDQeVDuq>설문조사</a>
-<h1>컴퓨터활용능력2급 필기/실기 자격증 시험 접수 사이트</h1>
-https://license.korcham.net/indexmain.jsp
+<h1><수업전 설문조사></h1>
+<h2 ><a href="https://naver.me/Gfr6cOeb" style="color:red;">설문조사 클릭해 주세요.</a></h2>
+
+<hr>
+ <h1>한컴 타자 연습</h1>
+https://www.hancomtaja.com/ko#main__taja
+ <hr>
+
+
+<h1><대한상공회의소 상시 검정></h1>
+<h2 ><a href="https://license.korcham.net/indexmain.jsp" style="color:red;">상시 시험 접수 클릭해 주세요.</a></h2>
+
+<hr>
+
 <hr>
 <h2>컴퓨터활용능력2급 필기</h2>
 <h3>컴퓨터일반 : 20문제</h3>
