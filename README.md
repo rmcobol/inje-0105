@@ -22,3 +22,10 @@ https://www.hancomtaja.com/ko#main__taja
 <hr>
 <h2>컴퓨터활용능력2급 실기</h2>
 <h3>합격 : 70점 이상 합격</h3>
+
+<hr>
+ <h1>기출정복문제 1회 컴퓨터일반</h1>
+<h2 ><a href="https://drive.google.com/file/d/1bzAi4GbCySm-xIRJczcf_9eZLyB1Zq2F/view?usp=sharing" style="color:red;">기출정복문제 1회 컴퓨터일반</a></h2>
+<hr>
+
+
