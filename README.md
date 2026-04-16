@@ -25,7 +25,7 @@ https://www.hancomtaja.com/ko#main__taja
 
 <hr>
  <h1>기출정복문제 1회 컴퓨터일반</h1>
-<h2 ><a href="https://drive.google.com/file/d/1bzAi4GbCySm-xIRJczcf_9eZLyB1Zq2F/view?usp=sharing" style="color:red;">기출정복문제 1회 컴퓨터일반</a></h2>
+<h2 ><a href="https://youtu.be/AFtWUMb_HJY" style="color:red;">기출정복문제 1회 컴퓨터일반</a></h2>
 <hr>
 
 
