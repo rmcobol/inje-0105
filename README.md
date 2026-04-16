@@ -31,8 +31,8 @@ https://www.hancomtaja.com/ko#main__taja
 
 <hr>
  <h1>기출정복문제필기 2회 컴퓨터일반/스프레드시트(엑셀)</h1>
-<h2 ><a href="" style="color:red;">기출정복문제 2회 컴퓨터일반</a></h2>
-<h2 ><a href="" style="color:red;">기출정복문제 2회 스프레드시트일반</a></h2>
+<h2 ><a href="https://youtu.be/9ZVG5fNGYxY" style="color:red;">기출정복문제 2회 컴퓨터일반</a></h2>
+<h2 ><a href="https://youtu.be/NafYZKinn2Q" style="color:red;">기출정복문제 2회 스프레드시트일반</a></h2>
 <hr>
 
 
