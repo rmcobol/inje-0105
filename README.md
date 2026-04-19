@@ -24,6 +24,12 @@ https://www.hancomtaja.com/ko#main__taja
 <h3>합격 : 70점 이상 합격</h3>
 
 <hr>
+ <h1>최신상시기출필기문제(2026년-2022년)</h1>
+<h2 ><a href="https://www.sinagong.co.kr/pds/003002001/past-exams" style="color:red;">최신상시기출필기문제(2026년-2022년)</a></h2>
+
+<hr>
+
+<hr>
  <h1>기출정복문제필기 1회 컴퓨터일반/스프레드시트(엑셀)</h1>
 <h2 ><a href="https://youtu.be/AFtWUMb_HJY" style="color:red;">기출정복문제 1회 컴퓨터일반</a></h2>
 <h2 ><a href="https://youtu.be/8LJTjB8KE_M" style="color:red;">기출정복문제 1회 스프레드시트일반</a></h2>
