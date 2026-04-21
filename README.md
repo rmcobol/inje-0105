@@ -53,4 +53,10 @@ https://www.hancomtaja.com/ko#main__taja
 <h2 ><a href="https://youtu.be/AznV2qpCX7w" style="color:red;">기출정복문제 4회 스프레드시트일반</a></h2>
 <hr>
 
+<hr>
+ <h1>기출정복문제필기 5회 컴퓨터일반/스프레드시트(엑셀)</h1>
+<h2 ><a href="https://youtu.be/VOjPPwdh6vE" style="color:red;">기출정복문제 5회 컴퓨터일반</a></h2>
+<h2 ><a href="https://youtu.be/sBhYlM-izRs" style="color:red;">기출정복문제 5회 스프레드시트일반</a></h2>
+<hr>
+
 
